@@ -1,0 +1,165 @@
+{
+    "consolidated_weather": [
+      {
+        "id": 5159180718571520,
+        "weather_state_name": "Heavy Cloud",
+        "weather_state_abbr": "hc",
+        "wind_direction_compass": "WNW",
+        "created": "2021-01-07T21:20:01.876939Z",
+        "applicable_date": "2021-01-07",
+        "min_temp": -1.4,
+        "max_temp": 2.9450000000000003,
+        "the_temp": 3.045,
+        "wind_speed": 3.827701755330205,
+        "wind_direction": 294.16664080572076,
+        "air_pressure": 1018.0,
+        "humidity": 85,
+        "visibility": 6.037863874970174,
+        "predictability": 71
+      },
+      {
+        "id": 6371683456778240,
+        "weather_state_name": "Heavy Rain",
+        "weather_state_abbr": "hr",
+        "wind_direction_compass": "N",
+        "created": "2021-01-07T21:20:01.359605Z",
+        "applicable_date": "2021-01-08",
+        "min_temp": -0.74,
+        "max_temp": 2.7249999999999996,
+        "the_temp": 2.78,
+        "wind_speed": 2.5586123848431828,
+        "wind_direction": 6.809384131181899,
+        "air_pressure": 1017.5,
+        "humidity": 89,
+        "visibility": 6.402608764813489,
+        "predictability": 77
+      },
+      {
+        "id": 4665421211893760,
+        "weather_state_name": "Clear",
+        "weather_state_abbr": "c",
+        "wind_direction_compass": "N",
+        "created": "2021-01-07T21:20:02.359097Z",
+        "applicable_date": "2021-01-09",
+        "min_temp": -0.82,
+        "max_temp": 3.11,
+        "the_temp": 3.455,
+        "wind_speed": 3.06777973699992,
+        "wind_direction": 5.999999999999984,
+        "air_pressure": 1027.5,
+        "humidity": 85,
+        "visibility": 10.131146603833612,
+        "predictability": 68
+      },
+      {
+        "id": 6711282444009472,
+        "weather_state_name": "Light Cloud",
+        "weather_state_abbr": "lc",
+        "wind_direction_compass": "W",
+        "created": "2021-01-07T21:20:01.465177Z",
+        "applicable_date": "2021-01-10",
+        "min_temp": -1.05,
+        "max_temp": 2.455,
+        "the_temp": 3.26,
+        "wind_speed": 3.4477251570243115,
+        "wind_direction": 275.8769005311244,
+        "air_pressure": 1026.5,
+        "humidity": 87,
+        "visibility": 12.659505985047323,
+        "predictability": 70
+      },
+      {
+        "id": 5156644540383232,
+        "weather_state_name": "Showers",
+        "weather_state_abbr": "s",
+        "wind_direction_compass": "WSW",
+        "created": "2021-01-07T21:20:01.749772Z",
+        "applicable_date": "2021-01-11",
+        "min_temp": 1.92,
+        "max_temp": 6.895,
+        "the_temp": 5.39,
+        "wind_speed": 7.281067627111004,
+        "wind_direction": 251.48234711106906,
+        "air_pressure": 1020.0,
+        "humidity": 88,
+        "visibility": 10.865607353058142,
+        "predictability": 73
+      },
+      {
+        "id": 6097680380985344,
+        "weather_state_name": "Heavy Rain",
+        "weather_state_abbr": "hr",
+        "wind_direction_compass": "WNW",
+        "created": "2021-01-07T21:20:04.718685Z",
+        "applicable_date": "2021-01-12",
+        "min_temp": 3.4850000000000003,
+        "max_temp": 11.525,
+        "the_temp": 6.68,
+        "wind_speed": 4.721713990296667,
+        "wind_direction": 284.0,
+        "air_pressure": 1011.0,
+        "humidity": 87,
+        "visibility": 9.999726596675416,
+        "predictability": 77
+      }
+    ],
+    "time": "2021-01-07T23:30:14.130921Z",
+    "sun_rise": "2021-01-07T08:04:27.957705Z",
+    "sun_set": "2021-01-07T16:09:35.953125Z",
+    "timezone_name": "LMT",
+    "parent": {
+      "title": "England",
+      "location_type": "Region / State / Province",
+      "woeid": 24554868,
+      "latt_long": "52.883560,-1.974060"
+    },
+    "sources": [
+      {
+        "title": "BBC",
+        "slug": "bbc",
+        "url": "http://www.bbc.co.uk/weather/",
+        "crawl_rate": 360
+      },
+      {
+        "title": "Forecast.io",
+        "slug": "forecast-io",
+        "url": "http://forecast.io/",
+        "crawl_rate": 480
+      },
+      {
+        "title": "HAMweather",
+        "slug": "hamweather",
+        "url": "http://www.hamweather.com/",
+        "crawl_rate": 360
+      },
+      {
+        "title": "Met Office",
+        "slug": "met-office",
+        "url": "http://www.metoffice.gov.uk/",
+        "crawl_rate": 180
+      },
+      {
+        "title": "OpenWeatherMap",
+        "slug": "openweathermap",
+        "url": "http://openweathermap.org/",
+        "crawl_rate": 360
+      },
+      {
+        "title": "Weather Underground",
+        "slug": "wunderground",
+        "url": "https://www.wunderground.com/?apiref=fc30dc3cd224e19b",
+        "crawl_rate": 720
+      },
+      {
+        "title": "World Weather Online",
+        "slug": "world-weather-online",
+        "url": "http://www.worldweatheronline.com/",
+        "crawl_rate": 360
+      }
+    ],
+    "title": "London",
+    "location_type": "City",
+    "woeid": 44418,
+    "latt_long": "51.506321,-0.12714",
+    "timezone": "Europe/London"
+  }
